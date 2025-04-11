@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
-mx: jerseyheritage-com.mail.protection.outlook.com
-max_age: 604800
+mode: enforce
+mx: jerseyheritage-com.m-v1.mx.microsoft
+max_age: 1209600
